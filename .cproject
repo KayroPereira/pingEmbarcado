@@ -19,40 +19,28 @@
 							<builder buildPath="${workspace_loc:/testEspFirebaseCallback}/Release" id="io.sloeber.sketch.builder.392642528" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Arduino sketch builder" superClass="io.sloeber.sketch.builder"/>
 							<tool id="io.sloeber.tool.sketch.compiler.cpp.332367242" name="Arduino C++ Compiler" superClass="io.sloeber.tool.sketch.compiler.cpp">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.cpp.sketch.option.incpath.1268796150" name="Include Paths (-I)" superClass="io.sloeber.compiler.cpp.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/testEspFirebaseCallback/libraries/SdFat/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/Firebase-ESP8266-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SDFS/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266-ping/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.530998389" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.compiler.c.861073707" name="Arduino C Compiler" superClass="io.sloeber.tool.compiler.c">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.c.sketch.option.incpath.171752566" name="Include Paths (-I)" superClass="io.sloeber.compiler.c.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/testEspFirebaseCallback/libraries/SdFat/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/Firebase-ESP8266-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SDFS/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266-ping/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.964098154" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
 							<tool id="io.sloeber.tool.sketch.compiler.s.1002326171" name="Arduino Assembler" superClass="io.sloeber.tool.sketch.compiler.s">
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="io.sloeber.compiler.asm.sketch.option.incpath.1861396009" name="Include Paths (-I)" superClass="io.sloeber.compiler.asm.sketch.option.incpath" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/testEspFirebaseCallback/libraries/SdFat/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266WiFi/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/Firebase-ESP8266-master/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SDFS/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/SPI}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/pingEmbarcado/libraries/ESP8266-ping/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.1056906523" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>

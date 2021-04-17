@@ -42,34 +42,14 @@
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/variants/nodemcu</locationURI>
 		</link>
 		<link>
+			<name>libraries/ESP8266-ping</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/ESP8266-ping/2.0.1</locationURI>
+		</link>
+		<link>
 			<name>libraries/ESP8266WiFi</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/ESP8266WiFi</locationURI>
-		</link>
-		<link>
-			<name>libraries/Firebase-ESP8266-master</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/Firebase-ESP8266-master</locationURI>
-		</link>
-		<link>
-			<name>libraries/SD</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/SD</locationURI>
-		</link>
-		<link>
-			<name>libraries/SDFS</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/SDFS</locationURI>
-		</link>
-		<link>
-			<name>libraries/SPI</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/SPI</locationURI>
-		</link>
-		<link>
-			<name>libraries/SdFat</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp8266/hardware/esp8266/2.7.4/libraries/ESP8266SdFat</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
